@@ -1,0 +1,52 @@
+Overview
+
+This application is designed to support users in achieving a balanced and healthy lifestyle by focusing on various aspects of wellbeing, including hair care, skin care, nutrition, exercise, and sleep. Developed using Amazon PartyRock without any coding, the application provides personalized recommendations and schedules to help users maintain a holistic approach to their health.
+
+Features
+
+Personalized Wellness Plans: Tailored to meet the individual needs of users, considering their dietary preferences, fitness levels, hair and skin care routines, and sleep patterns.
+Comprehensive Scheduling: Includes detailed timing for meals, exercise, hair and skin care routines, and sleep to ensure a balanced daily routine.
+Goal Setting: Allows users to set and track goals for hair care, skin care, diet, exercise, and sleep.
+User-Friendly Interface: Designed for users with minimal technical expertise, ensuring ease of use.
+
+
+You Can Visit The App Here:- https://partyrock.aws/u/Swapnil00001/CeaVS3lZc/Holistic-Wellbeing-Companion
+
+Getting Started
+
+Prerequisites
+
+An Amazon PartyRock account.
+Basic understanding of how to navigate the Amazon PartyRock platform.
+Installation Since this application is created using Amazon PartyRock, there is no need for a traditional installation process. Simply log in to your Amazon PartyRock account and follow the instructions to access the application.
+
+Usage
+
+Log In: Access the application by logging into your Amazon PartyRock account.
+Set Up Profile: Enter your personal details including dietary preferences, fitness goals, hair and skin care routines, and sleep patterns.
+Wellness Planning: View your personalized wellness plan with detailed timing and goal tracking.
+Daily Overview: Check your daily tasks including meals, exercise, hair and skin care routines, and sleep schedules to stay on track with your health goals.
+Steps
+
+Visit the website: https://partyrock.aws/
+Create your first application by clicking on ‘Build your own app’.
+Describe what you would like the app to do. Let’s go for something fun here!
+Click on Generate app, get some snacks and let PartyRock do the work for you!
+Click on ‘Build your own app’ and enter an appropriate prompt.
+Click on ‘Generate App’ and wait for PartyRock to do the work for you!
+PartyRock generated an application which takes tasks to be done as an input, gives the schedule according to priorities, and even provides a chatbot to refine your schedule! You can try adding or changing the widgets according to your own imagination.
+Application Structure
+
+Wellness Planning Module
+
+Personalized Recommendations: Wellness plans are customized based on user input.
+Timing Details: Specific times for meals, exercise, hair and skin care routines, and sleep.
+Goal Tracking: Set and track goals for hair care, skin care, diet, exercise, and sleep.
+Hair and Skin Care Module
+
+Routine Suggestions: Personalized hair and skin care routines based on user preferences and needs.
+Product Recommendations: Suggestions for hair and skin care products tailored to individual requirements.
+Contributing As this project was created using Amazon PartyRock without coding, contributions in the traditional sense are not applicable. However, feedback and suggestions for improvements are welcome.
+
+Acknowledgments Amazon PartyRock for providing a platform to develop this application without coding.
+
